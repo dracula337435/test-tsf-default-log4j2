@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: test-default-log4j2
